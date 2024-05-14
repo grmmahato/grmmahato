@@ -2,7 +2,7 @@
 https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif
 )
 
-<h1 align="center">Hi 👋, I'm Sijan Pokharel</h1>
+<h1 align="center">Hi 👋, I'm Ganga Ram Mahato</h1>
 <h3 align="center">A passionate Flutter Developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/941326/screenshots/8977728/media/d8d87cc990182d7dcafbde71fdf1d02b.gif">
 
