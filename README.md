@@ -4,7 +4,7 @@ https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif
 
 <h1 align="center">Hi 👋, I'm Ganga Ram Mahato</h1>
 <h3 align="center">A passionate Flutter Developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/941326/screenshots/8977728/media/d8d87cc990182d7dcafbde71fdf1d02b.gif">
+
 
 <p align="left"> <img src="https://media.licdn.com/dms/image/C4E12AQG5saDzSHQ2Sg/article-inline_image-shrink_1500_2232/0/1634106781305?e=1721260800&v=beta&t=y8EtYdBuyYqVcEAQCUEO5JogwhVOVe95UL1In0_xXeo" alt="grmmahato" /> </p>
 
